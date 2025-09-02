@@ -1,4 +1,4 @@
-# AnithaMohan
+# Anitha Mohan
 
 Hello, I’m Anitha 👋🏼, a Full Stack Developer passionate about building scalable, high-performance web applications. I have experience working with **Java, Spring Boot, Angular, React, and AWS**, and I enjoy solving complex problems and delivering reliable solutions.
 
@@ -25,5 +25,8 @@ I am currently seeking developer opportunities. Feel free to reach out at **anit
 I’m all about **cooking experiments, binge-watching shows, and soaking up nature**.  
 As a kid, I always dreamed of being a **Techie**, and here I am , still chasing that curiosity !!!
 
-Learn more about me:  
-[LinkedIn](https://www.linkedin.com/in/anitha-mohan-1a8313155/) | [Portfolio](https://sites.google.com/view/allaboutanithamohan/home)
+**Reach me out for quick response**
+[LinkedIn](https://www.linkedin.com/in/anitha-mohan-1a8313155/) 
+
+**Learn more about me:** 
+[Portfolio](https://sites.google.com/view/allaboutanithamohan/home)
